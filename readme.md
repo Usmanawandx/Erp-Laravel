@@ -1,4 +1,5 @@
 On This Erp There So Many Module WHich Are Given Below:
+
 1)Inventory: The Inventory module manages the stock levels of all products or items within the organization. It tracks quantities on hand, incoming shipments, outgoing orders, and locations within warehouses. It also often includes functionalities for stock valuation, serial number tracking, batch management, and inventory optimization.
 
 2)Customer And Supplier: This module manages information related to customers and suppliers. It includes features for storing contact details, communication history, transaction records, credit limits, and payment terms. It facilitates efficient communication and relationship management with both customers and suppliers.
